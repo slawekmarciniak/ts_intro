@@ -1,12 +1,11 @@
 import React from "react";
-import "./App.css";
-import SomeText from "./components/1_statycally-typed";
+import { Welcome } from "./components/Welcome";
 import { number } from "./constants/someNumber";
 
 function App() {
     return (
         <div className="App">
-            <SomeText number={number} />
+            <Welcome number={number} />
         </div>
     );
 }
