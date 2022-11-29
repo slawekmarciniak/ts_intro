@@ -46,7 +46,7 @@
 //     const handleClick = (): void => setCounterValue(setValue(counterValue));
 
 //     if (number <= 5) {
-//         return <p>oo</p>;
+//         return <p>text</p>;
 //     }
 
 //     return (
